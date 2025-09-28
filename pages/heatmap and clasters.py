@@ -11,7 +11,7 @@ df = pd.read_csv("./WHR_all2.csv")
 
 st.title("Heatmap та кластеризація індексів")
 
-# --- Вибір індекса для Heatmap ---
+# Вибір індекса для Heatmap 
 st.subheader("Карта країн за індексом")
 
 heatmap_index = st.selectbox(

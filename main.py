@@ -101,10 +101,6 @@ st.pyplot(fig)
 st.subheader("Топ-10 країн за обраним індексом")
 
 index_options = [
-    "Log GDP per capita", "Healthy life expectancy", "Social support",
-    "Perceptions of corruption", "Freedom to make life choices", "Generosity",
-    "Freedom_trust_index", "Generosity_normalized", "Life_freedom",
-    "Life_support", "Life_freedom_support", "Delta_Ladder_score",
     "Ladder score", "AI_index_base", "AI_index_y_region",
     "AI_index_new_features", "AI_index_new_features_y_reg",
     "Autoencoder_Index_base", "Autoencoder_Index_new_features",
